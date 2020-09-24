@@ -29,3 +29,4 @@
 - title: Official Website
   url: https://qubes-os.org
   icon: fa-external-link
+  icon_in_header: True

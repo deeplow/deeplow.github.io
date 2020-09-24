@@ -16,7 +16,11 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav nav-justified">
         {% for section in site.data.architecture %}
+	{% if section.icon_in_header %}
+        <li><a href="{{ section.url }}"><i class="fa {{ section.icon }}"></i> {{ section.title }}</a></li>
+	{% else %}
         <li><a href="{{ section.url }}">{{ section.title }}</a></li>
+	{% endif %}
         {% endfor %}
       </ul>
     </div><!--/.nav-collapse -->
