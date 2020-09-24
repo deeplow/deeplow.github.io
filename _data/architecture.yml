@@ -30,3 +30,6 @@
   url: https://qubes-os.org
   icon: fa-external-link
   icon_in_header: True
+  sub-pages:
+  - title: visit official Qubes website
+    url: https://qubes-os.org
