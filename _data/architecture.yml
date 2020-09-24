@@ -2,8 +2,20 @@
   url: /doc/
   icon: fa-book
   sub-pages:
-  - title: External Docs
-    url: /doc/#external-documentation
+  - title: Operating System Guides
+    url: /doc/#operating-system-guides
+  - title: Security
+    url: /doc/#security-guides
+  - title: Privacy
+    url: /doc/#privacy-guides
+  - title: Configuration Guides
+    url: /doc/#configuration-guides
+  - title: Customization Guides
+    url: /doc/#customization-guides
+  - title: Troubleshooting
+    url: /doc/#troubleshooting
+  - title: Building Guides
+    url: /doc/#building-guides
 
 - title: Forum
   url: https://qubes-os.discourse.group
