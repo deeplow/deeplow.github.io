@@ -17,13 +17,17 @@
   - title: Building Guides
     url: /doc/#building-guides
 
-- title: Forum
-  url: https://qubes-os.discourse.group
-  
+- title: Join us!
+  sub-pages:
+  - title: Official Forum
+    url: https://qubes-os.discourse.group
+  - title: Github
+    url: https://github.com/Qubes-Community/
+
 - title: Contribute
   url: /contribute/
   sub-pages:
-  - title: Contributing to Community Docs
+  - title: Documentation
     url: /doc/contributing/
 
 - title: Official Website
