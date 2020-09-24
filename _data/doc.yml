@@ -1,15 +1,20 @@
-- category: Introduction
-  folder: introduction
+- category: Operating System Guides
+  folder: os-guides
 
-- category: Project Security
-  folder: project-security
+- category: Security Guides
+  folder: security-guides
 
-- category: User Documentation
-  folder: user
+- category: Privacy Guides
+  folder: privacy-guides
 
-- category: Developer Documentation
-  folder: developer
+- category: Configuration Guides
+  folder: configuration-guides
 
-- category: External Documentation
-  folder: external
+- category: Customization Guides
+  folder: customization-guides
 
+- category: Troubleshooting
+  folder: troubleshooting
+
+- category: Building Guides
+  folder: bulding-guides
