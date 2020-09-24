@@ -4,6 +4,7 @@
       <i class="fa fa-book"></i> Community Documentation
     </a>
   </h1>
+  {% include doc-external-warning.html %}
 {% else %}
   {% assign doc_segments = page.relative_path | split: '/' %}
   {% for section in site.data.doc %}
@@ -14,9 +15,7 @@
             {{ section.category }}
         </a>
       </h1>
-      {% if section.category == "External Documentation" %}
-        {% include doc-external-warning.html %}
-      {% endif %}
+      {% include doc-external-warning.html %}
       {% if page.translated %}
         {% include doc-translated-warning.html %}
       {% endif %}
