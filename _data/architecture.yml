@@ -1,135 +1,19 @@
-- title: Introduction
-  url: /intro/
-  icon: fa-flag
-  sub-pages:
-  - title: What is Qubes OS?
-    url: /intro/
-  - title: FAQ
-    url: /faq/
-    icon: fa-question-circle
-  - title: Video Tours
-    url: /video-tours/
-    icon: fa-play-circle
-  - title: From the Experts
-    url: /experts/
-  - title: Screenshots
-    url: /screenshots/
-    icon: fa-picture-o
-  - title: Getting Started
-    url: /getting-started/
-    icon: fa-cubes
-  - title: Help and Support
-    url: /support/
-    icon: fa-life-ring
-  - title: Code of Conduct
-    url: /code-of-conduct/
-  - title: Security Center
-    url: /security/
-  - title: OS Architecture
-    url: /doc/architecture/
-
-- title: Downloads
-  url: /downloads/
-  icon: fa-download
-  sub-pages:
-  - title: System Requirements
-    url: /doc/system-requirements/
-  - title: Certified Hardware
-    url: /doc/certified-hardware/
-  - title: Compatibility List
-    url: /hcl/
-  - title: Installation Guide
-    url: /doc/installation-guide/
-  - title: Verifying Signatures
-    url: /security/verifying-signatures/
-  - title: Supported Versions
-    url: /doc/supported-versions/
-  - title: Version Scheme
-    url: /doc/version-scheme/
-  - title: Source Code
-    url: /doc/source-code/
-  - title: Software License
-    url: /doc/license/
-  - title: Download Mirrors
-    url: /downloads/#mirrors
-
-- title: Documentation
+- title: Community Documentation
   url: /doc/
   icon: fa-book
   sub-pages:
-  - title: Introduction
-    url: /doc/#introduction
-  - title: Project Security
-    url: /doc/#project-security
-  - title: Choosing Your Hardware
-    url: /doc/#choosing-your-hardware
-  - title: Installing & Upgrading
-    url: /doc/#downloading-installing-and-upgrading-qubes
-  - title: Common Tasks
-    url: /doc/#common-tasks
-  - title: Managing OSes
-    url: /doc/#managing-operating-systems-within-qubes
-  - title: Security in Qubes
-    url: /doc/#security-in-qubes
-  - title: Advanced Configuration
-    url: /doc/#advanced-configuration
-  - title: Developer Docs
-    url: /doc/#developer-documentation
   - title: External Docs
     url: /doc/#external-documentation
 
-- title: News
-  url: /news/
-  icon: fa-newspaper-o
+- title: Forum
+  url: https://qubes-os.discourse.group
+  
+- title: Contribute
+  url: /contribute/
   sub-pages:
-  - title: Announcements
-    url: /news/categories/#announcements
-  - title: Articles
-    url: /news/categories/#articles
-  - title: Research
-    icon: fa-file-text
-    url: /research/
-  - title: Statistics
-    url: /statistics/
-    icon: fa-bar-chart
-  - title: GitHub
-    url: https://github.com/QubesOS
-  - title: Qubes Community Forum
-    url: https://qubes-os.discourse.group/
-  - title: Twitter
-    url: https://twitter.com/QubesOS
-  - title: Reddit
-    url: https://www.reddit.com/r/Qubes/
-  - title: Facebook
-    url: https://www.facebook.com/QubesOS
-  - title: LinkedIn
-    url: https://www.linkedin.com/company/qubes-os/
-
-- title: Team
-  url: /team/
-  icon: fa-users
-  sub-pages:
-  - title: Report a Security Issue
-    url: /security/
-    icon: fa-lock
-  - title: Report a Bug
-    url: /doc/reporting-bugs/
-  - title: Press Inquiries
-    url: mailto:press@qubes-os.org
-  - title: Business Inquiries
-    url: mailto:business@qubes-os.org
-
-- title: Donate
-  url: /donate/
-  icon: fa-heart
-  sub-pages:
-  - title: How to donate
-    url: /donate/
-  - title: Partners
-    url: /partners/
-    icon: fa-globe
-  - title: Merchandise
-    url: /merchandise/
-  - title: Contributing
+  - title: Contributing to Community Docs
     url: /doc/contributing/
 
+- title: Official Website
+  url: https://qubes-os.org
+  icon: fa-external-link
