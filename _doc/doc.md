@@ -1,17 +1,9 @@
 ---
 layout: doc
-title: Documentation
+title: Community Documentation
 permalink: /doc/
 redirect_from:
 - /en/doc/
-- /doc/UserDoc/
-- /wiki/UserDoc/
-- /doc/QubesDocs/
-- /wiki/QubesDocs/
-- /help/
-- /en/help/
-- /en/community/
-- /community/
 ---
 
 # Qubes OS Community Documentation
